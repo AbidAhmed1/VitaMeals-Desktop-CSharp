@@ -24,4 +24,4 @@ To provide a fast, reliable desktop environment for hospital staff to manage mea
 ## 👩‍💻 Authors
 
 Developed at **ESEN Manouba**:
-* **Abid Ahmed** - *Desktop Software Developer* - [AbidAhmed1](https://github.com/AbidAhmed1)
+* **Abid Ahmed**  - [AbidAhmed1](https://github.com/AbidAhmed1)
